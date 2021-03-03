@@ -1,3 +1,3 @@
 # Simple datasheet finder
 
-Usage: python datasheetFinder.py <component name>
+Usage: python datasheetFinder.py [component name]
